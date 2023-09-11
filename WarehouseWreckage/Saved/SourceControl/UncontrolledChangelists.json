@@ -6,7 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Props/MaterialSphere.uasset",
-				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/Projectile/BP_Projectile.uasset",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/MainLevel.umap",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/MainLevel.umap",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/Project/Projectile/BP_Projectile.uasset",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/Project/MainLevel.umap",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/Project/MainLevel1.umap",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/Project/TestLevel.umap",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/Project/Objects/BP_Rack.uasset",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/Project/Objects/BP_Barrel.uasset",
+				"F:/GitHub/WarehouseWreckage/WarehouseWreckage/Content/BP_Projectile.uasset"
 			]
 		}
 	]
